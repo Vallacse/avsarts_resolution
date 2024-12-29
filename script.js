@@ -109,7 +109,7 @@ body {
 }
 
 .certificate {
-    background-image: url(./avsarts.jpeg);
+    background-image: url(./omaluravsarts.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
