@@ -109,7 +109,7 @@ body {
 }
 
 .certificate {
-    background-image: url(./avsarts.jpeg);
+    background-image: url(./omaluravsarts.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
@@ -254,7 +254,7 @@ h1 {
             <p class="recipient">This is to certify that</p>
             <img src="${photoSrc}" alt="Recipient Photo" class="recipient-photo">
             <h2 class="name">${name}</h2>
-            <p class="has_completed">New Year Resolution Is</p>
+            <p class="has_completed">My Resolution Is</p>
             <h3 class="course-name">"${message}"</h3>
         </div>
     </div>
